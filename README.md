@@ -1,7 +1,7 @@
 # Panduan Kontribusi Latihan
 
-Repo ini berisi panduan kontribusi untuk proyek latian
-open source. Sipapun bisa berkontribusi ke proyek ini.
+Repo ini berisi panduan kontribusi untuk proyek latihan open source. 
+Siapapun bisa berkontribusi ke proyek ini.
 
 ## Cara Berkontribusi
 
